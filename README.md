@@ -3,11 +3,9 @@
 
 OOP principi
 
-Šajā projektā es izmantoju četrus objektorientētās programmēšanas principus:
-
 - Mantošana : tika izveidota bāzes klase `Character`, no kuras manto gan spēlētājs (`Player`), gan pretinieks (`Enemy`). Kā arī `Weapon` klase, no kuras manto dažādi ieroči.
   
-- Enkapsulācija: i `getter` un `setter` metodes = `GetHealth()` un `SetHealth()`.
+- Enkapsulācija:  `getter` un `setter` metodes = `GetHealth()` un `SetHealth()`.
 
 - Polimorfisms: 
   - metode (`override`): `Attack()` 
